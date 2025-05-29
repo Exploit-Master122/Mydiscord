@@ -1,2 +1,1 @@
-# Mydiscord
-My discord in an iframe!
+Just download the HTML file...
